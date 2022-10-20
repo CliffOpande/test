@@ -1,1 +1,1 @@
-echo "this is my second script"
+echo "this is my second script today"
